@@ -1,3 +1,5 @@
+Sales Database Analysis
+
 - Tools Used – MySQL Workbench
 - SQL Queries on North-wind and Super-Market Dataset 
 - Process followed - Data Importing (CSV and SQL Files) 
